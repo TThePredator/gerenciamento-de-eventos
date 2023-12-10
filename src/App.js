@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import EventsPage from './pages/EventsPage';
 import EventCreatePage from './pages/EventCreatePage'; 
 import EventDetailsPage from './pages/EventDetailsPage';
+import './App.css';
 
 function App() { 
   return ( 
